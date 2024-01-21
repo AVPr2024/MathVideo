@@ -1,0 +1,23 @@
+##METADATA##
+
+Title: Math Adventures in Number Town!
+Creator: Synergy Team
+Description: A fun and playful video for children to learn arithmetic operations.
+Duration: 5 minutes
+Container format: MP4
+Compression: H.264
+Resolution: 1920x1080
+Frame rate: 29 frames per second
+Audio format: AAC
+Language: Amharic
+Subtitles: Amharic
+Aspect ratio (DAR): 16:9
+File size (estimated): 107MB (Quick Export)
+Bit depth: 8-bit
+Audio codec: AAC
+Audio bitrate: 128kbps
+Audio channels: Stereo
+##REFERENCES##
+ 
+https://www.youtube.com/watch?v=deDFx4BMnfg
+https://www.youtube.com/watch?v=8wEdiFlf2D8&ab_channel=JavierMercedes
